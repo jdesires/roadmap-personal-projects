@@ -1,5 +1,5 @@
 import os
-class FileAnalyzer():
+class FileAnalyzer:
     # Set the full path
     def full_path(self, file_name):
         # The folder this script is in
